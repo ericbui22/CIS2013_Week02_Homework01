@@ -30,12 +30,13 @@ int main()
 		else if (choice == 2)
 			result = value1 - value2;
 		else if (choice == 3)
-			result = vaule1 / value2;
+			result = value1 / value2;
 		else if (choice == 4)
 			result = value1 * value2;
 		
 		cout << "\nThe result is : " << result << "\n\n";
+		
 
 	}
-	cout << "\n\nHave a good day :D"
+	cout << "\n\nHave a good day :D";
 }
